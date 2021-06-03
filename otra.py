@@ -2,6 +2,7 @@
 import cv2
 import numpy as np
 # aqui le hace falta una libreria
+# aqui va lo del error en x
 
 # crear la variable para la captura de video
 video = cv2.VideoCapture(-1)
